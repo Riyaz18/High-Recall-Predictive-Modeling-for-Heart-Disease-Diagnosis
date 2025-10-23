@@ -1,0 +1,2 @@
+# High-Recall-Predictive-Modeling-for-Heart-Disease-Diagnosis
+This project implements an end to end machine learning solution to classify individuals based on their probability of having heart disease. The pipeline includes detailed Exploratory Data Analysis, comprehensive preprocessing, and the comparative tuning of multiple classification algorithms, including KNN, SVM, Decision Trees, and Random Forest
